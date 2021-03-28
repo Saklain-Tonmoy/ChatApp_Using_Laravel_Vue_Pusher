@@ -1,5 +1,5 @@
 <template>
-    <div>Selection Vue</div>
+    <div>Message Item</div>
 </template>
 
 <script>
